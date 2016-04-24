@@ -11,7 +11,7 @@ Features
 
 Installation
 -------------
-     pip install flipkart-api
+     pip install detect-duplicate
 
 Usage
 -----
