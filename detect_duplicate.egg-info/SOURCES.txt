@@ -1,0 +1,7 @@
+setup.py
+detect_duplicate.egg-info/PKG-INFO
+detect_duplicate.egg-info/SOURCES.txt
+detect_duplicate.egg-info/dependency_links.txt
+detect_duplicate.egg-info/top_level.txt
+duplicate/__init__.py
+duplicate/detect_duplicate.py
